@@ -64,6 +64,7 @@
               </thead>
               <tbody>
                 <?php $i = 1;
+                date_default_timezone_set('Asia/Jakarta');
                 foreach ($attendance as $atd) : ?>
                   <tr>
                     <th><?= $i++ ?></th>

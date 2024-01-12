@@ -12,7 +12,7 @@
             <div class="col-lg">
               <div class="p-5">
                 <div class="text-center">
-                  <h1 class="h4 text-gray-900 mb-4">Sistem Absensi Karyawan</h1>
+                  <h1 class="h4 text-gray-900 mb-4">Sistem Absensi Karyawan CanNgopi</h1>
                   <hr>
                 </div>
                 <?= $this->session->flashdata('message'); ?>
