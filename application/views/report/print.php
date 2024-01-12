@@ -35,7 +35,7 @@
       <thead>
         <tr>
           <th>#</th>
-          <th>Date</th>
+          <th>Tanggal</th>
           <th>Shift</th>
           <th>Check In</th>
           <th>Notes</th>
@@ -50,6 +50,7 @@
 
         // looping attendance list
         $i = 1;
+        date_default_timezone_set('Asia/Jakarta');
         foreach ($attendance as $atd) :
         ?>
           <tr <?php if (date('l', $atd['date']) == 'Saturday' || date('l', $atd['date']) == 'Sunday') {
