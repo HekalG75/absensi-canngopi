@@ -38,7 +38,7 @@
   </div>
   <!-- End of row show -->
   <?php if ($attendance == false) : ?>
-    <h1>Tidak Ada Data, Silakan Pilih Tanggal dan Departemen Anda</h1>
+    <h2>Tidak Ada Data, Silakan Pilih Tanggal dan Departemen Anda</h2>
   <?php else : ?>
     <?php if ($attendance != null) : ?>
       <div class="card shadow mb-4">
