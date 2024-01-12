@@ -1,10 +1,8 @@
-**Log on to codeastro.com for more projects!**
+**Database Name: absensi**
 
-**Database Name: empattendanceci**
+**Developed by hekal**
 
-**Developed by Andry**
-
-**Recommended PHP Version 7.4**
+**Recommended PHP Version 7.4^**
 
 
 **Admin Login Details**
