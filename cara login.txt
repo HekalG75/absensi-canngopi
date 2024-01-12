@@ -1,0 +1,16 @@
+
+
+**Database Name: absensi**
+
+**Developed by hekal**
+
+**Recommended PHP Version 7.4^**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+
+**For employee login, please create one from the admin panel**
