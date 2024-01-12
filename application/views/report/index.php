@@ -30,7 +30,7 @@
 
           </div>
           <div class="col-2">
-            <button type="submit" class="btn btn-success btn-fill btn-block">Tampilkan</button>
+            <button type="submit" class="btn btn-success btn-fill btn-block" style="font-size: 14px;">Tampilkan</button>
           </div>
         </div>
       </form>
